@@ -84,7 +84,7 @@ I am a **Data Scientist** focused on building predictive models and data-driven 
       <p>Personalized recommendation system based on user behavior</p>
     </td>
     <td align="center">
-      <h3><a href="https://github.com/Guillermo3dam/TFG">BestFriend</a></h3>
+      <h3><a href="https://github.com/Guillermo3dam/BestFriend">BestFriend</a></h3>
       <p>Mobile app for managing pet vaccinations and reminders</p>
     </td>
   </tr>
