@@ -14,7 +14,7 @@
 
 I am a **Data Scientist** focused on building predictive models and data-driven solutions that deliver real value. I am especially interested in intelligent systems and practical applications of Machine Learning.
 
-- :rocket: Currently working on: [SteamRecommender](https://github.com/4GeeksAcademy/Final-Project-Videogame-Recommender) — a personalized game recommendation system  
+- :rocket: Currently working on: [SteamRecommender](https://github.com/Guillermo3dam/Steam-recommender) — a personalized game recommendation system  
 - :brain: Currently learning: Deep Learning, neural networks, and advanced data visualization  
 - :seedling: Interests: Machine Learning, recommendation systems, backend development, and automation  
 - :iphone: Mobile development: [BestFriend](https://github.com/Guillermo3dam/TFG) — mobile app for pet vaccination tracking and reminders  
@@ -80,7 +80,7 @@ I am a **Data Scientist** focused on building predictive models and data-driven 
 <table>
   <tr>
     <td align="center">
-      <h3><a href="https://github.com/4GeeksAcademy/Final-Project-Videogame-Recommender">SteamRecommender</a></h3>
+      <h3><a href="https://github.com/Guillermo3dam/Steam-recommender">SteamRecommender</a></h3>
       <p>Personalized recommendation system based on user behavior</p>
     </td>
     <td align="center">
